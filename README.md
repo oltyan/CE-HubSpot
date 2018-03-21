@@ -7,4 +7,6 @@ I didn't make a dependency file for this, but it's pretty straight forward. Make
 * pip install requests
 
 run [python -m flask run] in the command line
-connect to http://127.0.0.1:5000/ to see all api calls for DEMO api.
+connect to 
+http://127.0.0.1:5000/ for all Contacts Count data
+http://127.0.0.1:5000/recent for json output from "recent contacts" hubspot endpoint
